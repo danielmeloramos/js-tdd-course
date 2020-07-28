@@ -25,5 +25,10 @@
     "hooks": {
       "pre-push": "npm run lint"
     }
-  }
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ]
 }
