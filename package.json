@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielmeloramos/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/danielmeloramos/js-tdd-course#readme"
+  "homepage": "https://github.com/danielmeloramos/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
 }
